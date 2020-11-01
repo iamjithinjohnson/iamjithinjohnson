@@ -44,7 +44,7 @@ YAML         1 min           ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![](https://github-readme-stats.vercel.app/api?username=iamjithinjohnsoncount_private=true&theme=dark&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=iamjithinjohnson&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 
 
 
